@@ -26,7 +26,7 @@ export const SliderContainer = styled.div`
       position: absolute;
       display: block;
       width: 100%;
-      height: 100%'
+      height: 100%;
     }
     .swiper-pagination-bullet-active {
       background: ${style["theme-color"]};
